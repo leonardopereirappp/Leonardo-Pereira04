@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, but i wanna learn JS, PHP, HTML, CSS, etc... Ps: i don´t wanna c,c# or c++, LUL it's so much thing to write
 - 📫 How to reach me:
 Twitch => utopico0
+Instagram => @utopico0_
 email=> lionvsganados@outlook.com
 <!---
 Leonardo-Pereira04/Leonardo-Pereira04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
