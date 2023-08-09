@@ -6,7 +6,7 @@ Meu nome é Leonardo, e eu sou um(a) entusiasta de tecnologia no geral. Atualmen
 ## Interesses
 - Engenharia de Software
 - Ciencia de Dados
-- [Área de Interesse 3]
+- Criacao de Sites/Apps
 
 ## O Que Estou Fazendo
 - 🌱 Atualmente estou aprendendo Python/Kivy/Flask/Django.
