@@ -14,7 +14,7 @@ Meu nome é Leonardo, e eu sou um(a) entusiasta de tecnologia no geral. Atualmen
 - 💬 Me pergunte sobre qualquer assunto, se souber com certeza vou ajudar.
 
 ## Contato
-- 📫 Como me encontrar: ![Linktr.ee](https://linktr.ee/leonardopereirappp)
+- 📫 Como me encontrar: [Linktr.ee](https://linktr.ee/leonardopereirappp)
 - ⚡ Curiosidade: Comecei na area de programacao porque um amigo falou que era infernal de chato, inclusive muito obrigado Henryque :)
 
 ## Stats
